@@ -1,7 +1,7 @@
-class dog
+class Dog
   #  defines dog
 end
 
-lassie = dog.new
-snoopy = dog.new
-fido = dog.new
+lassie = Dog.new
+snoopy = Dog.new
+fido = Dog.new
