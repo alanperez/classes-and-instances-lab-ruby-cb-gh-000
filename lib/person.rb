@@ -1,5 +1,5 @@
 def person
+end
 
-
-adele_goldberg
-alan_kay
+adele_goldberg = peron.new
+alan_kay = person. new
